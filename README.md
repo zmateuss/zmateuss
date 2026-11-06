@@ -1,4 +1,4 @@
-<img data-importer="image" align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pscHRkM3ViZzZoZjJ5OHZneTd1ODJhbjNmZHFtbGwxb3A4ZmkzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aBRWmudWKciiLAppso/giphy.gif"  />
+<img data-importer="image" align="left" height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pscHRkM3ViZzZoZjJ5OHZneTd1ODJhbjNmZHFtbGwxb3A4ZmkzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aBRWmudWKciiLAppso/giphy.gif"  />
 
 ###
 
@@ -21,6 +21,6 @@
 
 ###
 
-<h2 data-importer="text" align="left">7️⃣🎩</h2>
+<h3 data-importer="text" align="left">7️⃣🎩</h3>
 
 ###
